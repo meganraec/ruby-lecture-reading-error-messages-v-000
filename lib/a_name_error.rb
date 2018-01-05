@@ -1,3 +1,3 @@
 "hello world"
 
-printhello_world
+print "hello_world"
